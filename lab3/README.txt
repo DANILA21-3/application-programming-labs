@@ -1,1 +1,1 @@
-python main.py cd left.jpg right.jpg
+python main.py C:\Users\123\Downloads left.jpg right.jpg

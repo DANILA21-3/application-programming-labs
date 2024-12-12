@@ -1,0 +1,1 @@
+python main.py cd left.jpg right.jpg
